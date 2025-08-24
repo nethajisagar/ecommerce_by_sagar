@@ -5,7 +5,7 @@ const Header = () => {
     <div className="headerSection">
       <div className='left'>
         <div className='title'>
-          <h2>Shopping malls</h2>
+          <h2>Shopping mall</h2>
         </div>
       </div>
       <div className='center'>
